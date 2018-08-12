@@ -6,3 +6,5 @@ function paragraphSelector(){
 function lastImageSelector(){
  return $('#pic-list img:last');
 }
+
+function ninjaBabySelector(){
