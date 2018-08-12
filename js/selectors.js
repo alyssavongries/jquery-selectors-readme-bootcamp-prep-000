@@ -3,7 +3,6 @@ function paragraphSelector(){
   $(`p`);
 }
 
-
 function lastImageSelector(){
   $('.cat')
 }
